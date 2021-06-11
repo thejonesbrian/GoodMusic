@@ -1,0 +1,12 @@
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Services\bin\Debug\netcoreapp3.1\GoodMusic.Services.deps.json
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Services\bin\Debug\netcoreapp3.1\GoodMusic.Services.dll
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Services\bin\Debug\netcoreapp3.1\GoodMusic.Services.pdb
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Services\obj\Debug\netcoreapp3.1\GoodMusic.Services.csproj.AssemblyReference.cache
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Services\obj\Debug\netcoreapp3.1\GoodMusic.Services.AssemblyInfoInputs.cache
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Services\obj\Debug\netcoreapp3.1\GoodMusic.Services.AssemblyInfo.cs
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Services\obj\Debug\netcoreapp3.1\GoodMusic.Services.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Services\obj\Debug\netcoreapp3.1\GoodMusic.Services.dll
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Services\obj\Debug\netcoreapp3.1\GoodMusic.Services.pdb
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Services\bin\Debug\netcoreapp3.1\GoodMusic.Data.dll
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Services\bin\Debug\netcoreapp3.1\GoodMusic.Data.pdb
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Services\obj\Debug\netcoreapp3.1\GoodMusic.Services.csproj.CopyComplete

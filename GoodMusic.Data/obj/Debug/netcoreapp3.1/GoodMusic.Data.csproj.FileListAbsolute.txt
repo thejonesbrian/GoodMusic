@@ -1,0 +1,9 @@
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Data\bin\Debug\netcoreapp3.1\GoodMusic.Data.deps.json
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Data\bin\Debug\netcoreapp3.1\GoodMusic.Data.dll
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Data\bin\Debug\netcoreapp3.1\GoodMusic.Data.pdb
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Data\obj\Debug\netcoreapp3.1\GoodMusic.Data.csproj.AssemblyReference.cache
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Data\obj\Debug\netcoreapp3.1\GoodMusic.Data.AssemblyInfoInputs.cache
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Data\obj\Debug\netcoreapp3.1\GoodMusic.Data.AssemblyInfo.cs
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Data\obj\Debug\netcoreapp3.1\GoodMusic.Data.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Data\obj\Debug\netcoreapp3.1\GoodMusic.Data.dll
+C:\Users\brian\Desktop\newDevelopments\productive_dev\GoodMusic\GoodMusic.Data\obj\Debug\netcoreapp3.1\GoodMusic.Data.pdb
